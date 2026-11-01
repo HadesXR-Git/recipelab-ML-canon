@@ -1,5 +1,5 @@
 this was an attempt on developing a lua script on Magic Lantern for importing pf2/pf3 Picture Style for Canon Cameras. 
-Attempted on Rebel T5i/700D. Assisted by with ChatGPT 5.6-Luna
+Attempted on Rebel T5i/700D with Magic Lantern ver.Nightly.2018Jul03.700D115. Assisted by with ChatGPT 5.6-Luna
 
 you can read the chatlog and what we found after hours of engineering.
 the zipfiles are also uploaded to this repository for reference.
